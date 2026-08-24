@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+<img width="1366" height="768" alt="Screenshot (714)" src="https://github.com/user-attachments/assets/0ba36353-2617-4a86-a7c4-bee0a459f09c" />
+
+<img width="1366" height="768" alt="Screenshot (713)" src="https://github.com/user-attachments/assets/77321efe-ca27-443d-8af5-1a40021e087d" />
+
+<img width="1366" height="768" alt="Screenshot (712)" src="https://github.com/user-attachments/assets/d9c883f0-99bc-4346-adb9-33c4dc7c5a5d" />
+
 # billbuddy_app
 
 A new Flutter project.
